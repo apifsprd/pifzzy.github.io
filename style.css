@@ -1,0 +1,45 @@
+* {
+  font-family: "Comfortaa", cursive;
+}
+
+.navbar {
+  background-color: #f7f7f5 !important;
+}
+
+.navbar-brand img {
+  width: 45px;
+}
+
+.navbar-nav a {
+  /* color: #00ccff !important; */
+  margin-right: 25px;
+}
+
+.navbar-nav a:hover {
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+#home {
+  background-color: #f7f7f5;
+  height: 500px;
+}
+
+#home h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+#home img {
+  width: 600px;
+}
+
+#home a {
+  text-decoration: none;
+  color: #00ccff;
+  font-size: 20px;
+}
+
+#home a:hover {
+  text-decoration: underline;
+}
