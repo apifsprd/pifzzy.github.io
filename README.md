@@ -11,7 +11,7 @@ Icons : [Feather](https://feathericons.com/)
 ## Colors
 Light blue #00CCFF
 
-Light Grey #f7f7f5
+Light Grey #F7F7F5
 
 ## Social Media
 [Twitter](https://twitter.com/pifzzy)
