@@ -8,6 +8,11 @@ Illustration by : [Illustration.co](https://illlustrations.co/)
 
 Icons : [Feather](https://feathericons.com/)
 
+## Colors
+Light blue #00CCFF
+
+Light Grey #f7f7f5
+
 ## Social Media
 [Twitter](https://twitter.com/pifzzy)
 
