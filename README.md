@@ -2,7 +2,7 @@
 This is my portfolio site, created using Bootstrap version 5.
 
 ## Tools
-Font : Comfortaa [Comfortaa](https://fonts.google.com/specimen/Comfortaa?preview.text_type=custom)
+Font : [Comfortaa](https://fonts.google.com/specimen/Comfortaa?preview.text_type=custom)
 
 Illustration by : [Illustration.co](https://illlustrations.co/)
 
