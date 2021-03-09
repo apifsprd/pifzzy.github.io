@@ -1,6 +1,6 @@
 * {
   font-family: "Comfortaa", cursive;
-  background-color: #f7f7f5;
+  /* background-color: #f7f7f5; */
 }
 
 .navbar {
@@ -23,6 +23,7 @@
 
 #home {
   height: 500px;
+  background-color: #f7f7f5 !important;
 }
 
 #home h1 {
@@ -47,6 +48,7 @@
 #aboutme {
   height: 400px;
   padding-top: 90px;
+  background-color: #f7f7f5 !important;
 }
 
 #aboutme img {
@@ -84,6 +86,7 @@
 #services {
   height: 400px;
   padding-top: 90px;
+  background-color: #f7f7f5 !important;
 }
 
 #services h1 {
@@ -112,6 +115,7 @@
 #portfolio {
   height: 400px;
   padding-top: 180px;
+  background-color: #f7f7f5 !important;
 }
 
 #portfolio h1 {
@@ -138,4 +142,68 @@
 
 #portfolio .user {
   font-size: 12px;
+}
+
+#contact {
+  background-color: #f7f7f5 !important;
+  height: 830px;
+  padding-top: 250px;
+}
+
+#contact h1 {
+  font-size: 80px;
+  font-weight: 700;
+  color: rgb(212, 233, 247);
+}
+
+#contact h2 {
+  margin-top: -55px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+#contact img{
+  width: 300px;
+}
+
+
+#footer1 {
+  height: auto;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-right: 15%;
+  padding-left: 15%;
+  background-color: #b2edfc !important;
+}
+
+
+#footer1 a {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+
+#footer1 a:hover {
+  text-decoration: underline;
+}
+
+#footer1 img{
+  width: 60px;
+}
+
+#footer2 {
+  height: 200px;
+  padding-top: 3%;
+  padding-bottom: 5%;
+  padding-right: 15%;
+  padding-left: 15%;
+  background-color: #00ccff !important;
+  color: white;
+}
+
+#footer2 h1 {
+  font-size: 100px;
+  font-weight: 700;
 }
